@@ -1,2 +1,4 @@
-# search-word-in-files
-search-word-in-files
+### Usage:
+```
+ curl http://localhost:8080/files/search?word=<Word>
+```
